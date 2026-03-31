@@ -375,7 +375,7 @@
     <div class="container">
       <div class="nav-shell">
         <div class="brand-row">
-          <img class="brand-logo" src="assets/logo-vurpix.png" alt="Vurpix" />
+          <img class="brand-logo" src="assets/vurpix_Logo_2024 _sin _fondo.png" alt="Vurpix" />
         </div>
         <a class="nav-cta" href="#registro">Registrarme</a>
       </div>
@@ -386,7 +386,7 @@
     <section class="hero">
       <div class="container">
         <div class="hero-inner">
-          <img class="hero-logo" src="assets/logo-vurpix.png" alt="Vurpix" />
+          <img class="hero-logo" src="assets/vurpix_Logo_2024 _sin _fondo.png" alt="Vurpix" />
           <img class="partner-logo" src="assets/salesforce-partner.png" alt="Salesforce Partner" />
 
           <div class="pill">
@@ -457,7 +457,7 @@
   <footer class="footer">
     <div class="container">
       <div class="footer-logos">
-        <img src="assets/logo-vurpix.png" alt="Vurpix" />
+        <img src="assets/vurpix_Logo_2024 _sin _fondo.png" alt="Vurpix" />
         <img src="assets/salesforce-partner.png" alt="Salesforce Partner" />
       </div>
       <div class="footer-copy">
